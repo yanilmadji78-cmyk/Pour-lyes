@@ -1,0 +1,6 @@
+{
+  "name": "Suivi Stock et Distribution Habillement",
+  "description": "Système centralisé de gestion des références d'habillement, recherche instantanée par référence et suivi des stocks en temps réel par magasin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
